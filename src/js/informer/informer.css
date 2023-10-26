@@ -64,21 +64,29 @@
 
    .button1 {
     position: absolute;
-    left: 40%; bottom: 50%;
+    left: 15%; bottom: 50%;
     transform: translate(-50%, -50%);
     
    }
 
    .button2 {
     position: absolute;
-    left: 60%; bottom: 50%;
+    left: 30%; bottom: 50%;
     transform: translate(-50%, -50%);
 
    }
 
    .button3 {
     position: absolute;
-    left: 80%; bottom: 50%;
+    left: 45%; bottom: 50%;
     transform: translate(-50%, -50%);
 
    }
+
+   .input {
+    position: absolute;
+    left: 60%; bottom: 50%;
+    transform: translate(-50%, -50%);
+   }
+
+
