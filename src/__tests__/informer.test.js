@@ -19,7 +19,7 @@ test('must show informer on click button', () => {
 
 })
 
-test('must hide informer on click button', () => {
+test('must hide informer on double click button', () => {
     
     document.body.innerHTML = '<button class="button1" data-toggle="informer" data-header="Кнопка 1" data-body="Это кнопка 1 по клику, событие по умолчанию">CLICK1</button>';
          
